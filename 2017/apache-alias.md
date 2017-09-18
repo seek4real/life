@@ -3,7 +3,7 @@ Author: $whoami :me
 Date: Sept one day, 2017  
 Copyright: me  
 
-###Apache alias configuration MacOS X###
+### Apache alias configuration MacOS X ###
 
 ---
 
@@ -32,4 +32,4 @@ MacOS X 已经自带了apache，直接配置就可以使用了。
 [apache wiki](https://wiki.apache.org/httpd/ClientDeniedByServerConfiguration)
 
 ---
-除了设置Alias还可以通过设置**用户配置**已经设置虚拟目录的方法
+除了设置Alias还可以通过设置 **用户配置** 已经设置 **虚拟目录** 的方法
