@@ -1,2 +1,3 @@
-# hello
-This repo is just for record some code|note|idea and ..etc..
+# Life
+
+This is my blog that I called it "Life".
