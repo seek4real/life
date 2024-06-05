@@ -1,7 +1,7 @@
----
+
 time 2024/06/02
 title begin 3D Math
----
+
 
 
 # Note Begin with 3D Math 
