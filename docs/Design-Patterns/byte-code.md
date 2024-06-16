@@ -32,4 +32,3 @@ title: Design Pattern byte code
 - 一本不错的游戏编程模式书，作者放出了电子版[游戏编程模式](http://gameprogrammingpatterns.com/bytecode.html) 
 - “四人帮”写的那本《设计模式》
 - 一本神书，讲解如何从零开始写一个虚拟机[游戏脚本高级编程](https://book.douban.com/subject/1927405/)
-- 
